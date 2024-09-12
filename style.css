@@ -156,11 +156,11 @@ footer h6 {
     }
 
     #nav ul {
+        text-align: center;
         display: flex;
-        gap: 50px;
+        gap: 20px;
+        font-size: 18px;
     }
-
-    
 
     #locations .addresses {
         display: flex;
