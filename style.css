@@ -158,8 +158,10 @@ footer h6 {
     #nav ul {
         text-align: center;
         display: flex;
+        justify-content: center;
         gap: 20px;
         font-size: 18px;
+        margin: auto;
     }
 
     #locations .addresses {
